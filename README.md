@@ -1,165 +1,165 @@
-Пользовательское Соглашение и Политика Конфиденциальности (редакция от «12» марта 2019 г.) (Правила пользования приложения Rand)
+User Agreement and Privacy Policy (edited March 12, 2019) (Rand User Guidelines)
 
-Пользовательское Cоглашение
+User Agreement
 
-Настоящее Пользовательское Соглашение (далее читать «Соглашение») является обязательным юридическим договором между Пользователем и Администрацией Приложения Rand (далее «Администрация»).
+This User Agreement (hereinafter referred to as the “Agreement”) is a binding legal agreement between the User and the Administration of the Rand Application (hereinafter referred to as the “Administration”).
 
-Прежде чем использовать Приложение, Пользователь в обязательном порядке должен изучить данное Соглашение и принять все его правила, только после этого Администрация гарантирует доступ к Приложению.
+Before using the Application, the User must necessarily examine this Agreement and accept all its rules, only after that the Administration guarantees access to the Application.
 
-Обязанности сторон
+Duties of the parties
 
-Права и обязанности Пользователя
-1.1. Пользователь обязан безоговорочно соблюдать правила данного Соглашения.
+Rights and obligations of the User
+1.1. The user is obliged to unconditionally abide by the rules of this Agreement.
 
-1.2. Пользователь не имеет права разглашать свои учетные данные. Администрация не несёт ответственности за убытки и риски, связанные с потерей личных данных.
+1.2. The user has no right to disclose their credentials. The administration is not responsible for losses and risks associated with the loss of personal data.
 
-1.3. При несанкционированном доступе к своей учетной записи Пользователь обязуется сообщить об этом Администрации, отправив письменное уведомление. В случае несоблюдения этого правила Пользователь сам несёт ответственность за действия, совершенные от его имени и под его аккаунтом.
+1.3. In case of unauthorized access to his account, the User undertakes to inform the Administration about this by sending a written notice. In case of non-observance of this rule, the User is responsible for the actions performed on his behalf and under his account.
 
-1.4. Пользователь обязуется не использовать Приложение для распространения агитационных и рекламных материалов без письменного подтверждения от Администрации.
+1.4. The user agrees not to use the Application for the dissemination of campaign and promotional materials without written confirmation from the Administration.
 
-1.5. Проводить сделки, совершать покупки товаров или услуг, а также продуктов интеллектуальной собственности без согласования с Администрацией запрещается. Пользователь сам несёт ответственность за риски и последствия подобных действий.
+1.5. To conduct transactions, to make purchases of goods or services, as well as intellectual property products without the consent of the Administration is prohibited. The user is responsible for the risks and consequences of such actions.
 
-1.6. Пользователь обязуется не нарушать права третьих лиц и других пользователей и не распространять через Приложение спам и материалы, противоречащие действующему законодательству Российской Федерации и нормам морали, а именно:
+1.6. The User undertakes not to violate the rights of third parties and other users and not to distribute through the Application spam and materials that contradict the current legislation of the Russian Federation and moral standards, namely:
 
-1.6.1. порнографию;
+1.6.1. pornography;
 
-1.6.2. материалы, демонстрирующие и пропагандирующие сцены насилия, жестокости и терроризма;
+1.6.2. materials demonstrating and promoting scenes of violence, cruelty and terrorism;
 
-1.6.3. нецензурные высказывания, оскорбления и клевету;
+1.6.3. obscene language, insults and slander;
 
-1.6.4. материалы, разжигающие ненависть к лицам нетрадиционной сексуальной ориентации;
+1.6.4. materials that incite hatred towards gay men;
 
-1.6.5. угрозы и материал экстремистского характера;
+1.6.5. extremist threats and material;
 
-1.6.6. инструкции для совершения преступных действий и мошеннические схемы;
+1.6.6. criminal instructions and fraud schemes;
 
-1.6.7. материалы, пропагандирующие и рекламирующие наркотики;
+1.6.7. materials promoting and promoting drugs;
 
-1.6.8. пропаганду войны, расовое и национальное превосходство;
+1.6.8. war propaganda, racial and national superiority;
 
-1.6.9. любые материалы, провоцирующие социальные, межрасовые, национальные, а также религиозные конфликты и сеющие вражду.
+1.6.9. any material provoking social, interracial, national, as well as religious conflicts and sowing hostility.
 
-1.7. Пользователю запрещается выдавать себя за другое лицо как физическое, так и юридическое.
+1.7. The user is prohibited to impersonate another person, both natural and legal.
 
-1.8. Пользователь не имеет права распространять материалы, ущемляющие честь и достоинство кого-либо и способные испортить репутацию или принести ущерб физическому или юридическому лицу.
+1.8. The user has no right to distribute materials that infringe the honor and dignity of anyone and could ruin the reputation or cause damage to a natural or legal person.
 
-1.9. Только Пользователь несёт ответственность за своё поведение, материалы и информацию, которые он размещает в Приложении.
+1.9. Only the User is responsible for his behavior, materials and information that he places in the Application.
 
-1.10. Размещая любую информацию и материалы в Приложении, Пользователь подтверждает и гарантирует, что имеет на это все права.
+1.10. By placing any information and materials in the Application, the User confirms and guarantees that he has all the rights to this.
 
-1.11. Недопустима публикация фотографий, паспортных данных, телефона, электронной почты, адреса и любой личной информации другого пользователя или любого физического лица без его на то согласия.
+1.11. It is not allowed to publish photographs, passport data, phone, e-mail, address and any personal information of another user or any individual without his consent.
 
-1.12. Все материалы, находящиеся в Приложении доступны для просмотра, копирования и скачивания исключительно для некоммерческого (личного) использования.
+1.12. All materials contained in the Application are available for viewing, copying and downloading exclusively for non-commercial (personal) use.
 
-1.13. Любое копирование, передача материалов третьим лицам, распространение или использование содержимого Приложения в коммерческих целях требует письменного разрешения Администрации Приложения или непосредственно лица, обладающим авторским правом на этот материал.
+1.13. Any copying, transfer of materials to third parties, distribution or use of the content of the Application for commercial purposes requires the written permission of the Administration of the Application or directly of the person owning the copyright to this material.
 
-1.14. Пользователю запрещено создавать производные продукта без письменного разрешения владельца Приложения.
+1.14. The user is prohibited from creating product derivatives without the written permission of the owner of the Application.
 
-1.15. Пользователь не имеет право пользоваться запрещёнными программами с целью получения выгоды.
+1.15. The user is not entitled to use prohibited programs for the purpose of obtaining benefits.
 
-Права и обязанности Администрации Приложения
-2.1. Администрация оставляет за собой право удалять или блокировать любую информацию и материалы Пользователя без оповещения, если они нарушают закон Российской Федерации или данное Соглашение.
+Rights and obligations of the Administration of the Application
+2.1. The administration reserves the right to remove or block any information and materials of the User without notice if they violate the law of the Russian Federation or this Agreement.
 
-2.2. В случае нарушения правил Соглашения или действующего законодательства РФ, Администрация имеет право заблокировать доступ к Приложению или полностью удалить аккаунт Пользователя.
+2.2. In case of violation of the rules of the Agreement or the current legislation of the Russian Federation, the Administration has the right to block access to the Application or completely delete the User’s account.
 
-2.3. Администрация вправе любым способом информировать Пользователя о нововведениях на Сайте и в Приложении, а также редактировать, удалять или изменять содержимое Приложения по своему усмотрению.
+2.3. The administration has the right to inform the User in any way about innovations on the Website and in the Application, as well as edit, delete or change the content of the Application at its discretion.
 
-2.4. Администрация не несёт ответственность за некачественные услуги связи мобильных операторов, компьютерных провайдеров, за сбои на серверах, ошибки в обработке и медленную передачу данных, а также технические сбои в работе Приложения.
+2.4. The administration is not responsible for poor communication services of mobile operators, computer providers, for server failures, processing errors and slow data transfer, as well as technical failures in the Application.
 
-2.5. В случае перехода или скачивания материалов по ссылкам других пользователей, Администрация не несет ответственность за урон и порчу программного обеспечения, компьютерной техники и мобильных устройств.
+2.5. In the case of transfer or download of materials on the links of other users, the Administration is not responsible for damage and damage to software, computer equipment and mobile devices.
 
-2.6. Администрация не несёт ответственность перед третьими лицами, так же как и перед Пользователем, за неумышленный урон или ущерб, потерянные данные, вред репутации, достоинству и чести нанесённый посредством использования Приложения.
+2.6. The administration is not responsible to third parties, as well as to the User, for inadvertent damage or damage, lost data, reputation damage, merits and honor inflicted through the use of the Application.
 
-2.7. Администрация оставляет за собой право собирать и использовать любую информацию о Пользователе, технические данные о программном обеспечении, компьютерной техники и внешних устройствах Пользователя для предоставления качественных услуг и технической поддержки, а также для упрощения процесса обновления программного обеспечения, усовершенствования услуг и прочих своих целей.
+2.7. The Administration reserves the right to collect and use any information about the User, technical data on the software, computer equipment and external devices of the User to provide quality services and technical support, as well as to simplify the process of updating software, improving services and other purposes.
 
-2.8. Администрация имеет право отказать в пользовании Приложением любому человеку.
+2.8. The administration has the right to refuse to use the Application to any person.
 
-Условия использования Приложения
-3.1. Пользователем Приложения могут быть только лица старше 18 лет.
+Application Terms
+3.1. Users of the Application can only be persons over 18 years old.
 
-3.2. Приложение предоставляет возможность Пользователю безвозмездно пользоваться содержимым Приложения в личных (некоммерческих) целях.
+3.2. The application allows the User to use the content of the Application free of charge for personal (non-commercial) purposes.
 
-3.3. Вся ответственность за действия в Приложении лежит на Пользователе. То есть – за все размещённые материалы, информацию, за любое взаимодействие с другими физическими лицами, за любые последствия, возможные непредвиденные ситуации и конфликты несёт ответственность сам Пользователь.
+3.3. All responsibility for the actions in the Application rests with the User. That is, for all posted materials, information, for any interaction with other individuals, for any consequences, possible unforeseen situations and conflicts, the User is responsible.
 
-3.4. Пользователь имеет право использовать Приложение только после регистрации.
+3.4. The user has the right to use the application only after registration.
 
-3.5. Регистрация проводится в Приложении путём заполнения стандартной формы или через социальные сети. Есть возможность авторизоваться через социальные сети.
+3.5. Registration is carried out in the Annex by filling out a standard form or through social networks. It is possible to log in via social networks.
 
-Ответственность и гарантии сторон
-4.1. Администрация имеет право к исполнению настоящего Соглашения привлекать третьих лиц. Пользователь, соглашаясь с правилами Соглашения, подтверждает, что третьи лица имеют такие же права как и владельцы Приложения.
+Liability and warranty of the parties
+4.1. The administration has the right to involve third parties in the execution of this Agreement. The User, agreeing with the terms of the Agreement, confirms that third parties have the same rights as the owners of the Application.
 
-4.2. Пользователь гарантирует, что не будет распространять СПАМ и не причинит своими действиями вреда и ущерба другим пользователям, физическим лицам и правообладателям Приложения.
+4.2. The User guarantees that he will not spread SPAM and will not cause harm and damage to other users, individuals and rightholders of the Application by his actions.
 
-4.3. При несоблюдении правил настоящего Соглашения, повлёкшие за собой нанесение вреда правообладателям Приложения, физическим лицам или другим пользователям, Пользователь гарантирует возмещение ущерба в полном размере.
+4.3. In case of non-observance of the rules of this Agreement, which entailed harm to the copyright holders of the Application, individuals or other users, the User guarantees compensation of damage in full.
 
-4.4. Если Пользователь не сообщил в письменном виде Администрации Приложения о несанкционированном использовании его аккаунта в Приложении, то за все действия, производимые от имени Пользователя, несёт ответственность непосредственно сам Пользователь.
+4.4. If the User has not notified in writing to the Administration of the Application about the unauthorized use of his account in the Application, then the User himself is responsible for all actions performed on behalf of the User.
 
-4.5. На Пользователе лежит ответственность за все действия, производимые им в Интернете, согласно законодательству той страны, в которой он находится.
+4.5. The User is responsible for all actions performed by him on the Internet, in accordance with the legislation of the country in which he is located.
 
-Условия конфиденциальности
-5.1. Администрация гарантирует, что не передаст личную информацию Пользователя (логин, пароль, номер телефона и другую персональную информацию) без его согласия, введённую им при регистрации, третьим лицам.
+Privacy Policy
+5.1. The administration guarantees that it will not transfer the personal information of the User (username, password, telephone number and other personal information) without his consent, entered during registration by him to third parties.
 
-5.2. Администрация не вносит изменения в профиль Пользователя и не редактирует его, без согласия Пользователя.
+5.2. The administration does not make changes to the user profile and does not edit it, without the consent of the user.
 
-Заключение
-6.1. Администрация не обязана отслеживать и блокировать материалы и аккаунты пользователей, которые нарушают правила данного Соглашения, но имеет на это право.
+Conclusion
+6.1. The administration is not obliged to monitor and block materials and user accounts that violate the rules of this Agreement, but have the right to do so.
 
-6.2. В случае возникновения недоразумений и вопросов, которые невозможно разрешить сторонам в рамках данного Соглашения, проблема решается в соответствии с законами Российской Федерации.
+6.2. In the event of misunderstandings and issues that cannot be resolved by the parties under this Agreement, the problem is solved in accordance with the laws of the Russian Federation.
 
-6.3. Любые споры и разногласия между Пользователем и Администрацией урегулируются посредством переговоров. Если сторонам не удаётся прийти к консенсусу, вопрос решается в суде по месту нахождения правообладателей Приложения в соответствии с законодательством Российской Федерации.
+6.3. Any disputes and disagreements between the User and the Administration are resolved through negotiations. If the parties fail to reach a consensus, the issue is resolved in court at the location of the owners of the Application in accordance with the legislation of the Russian Federation.
 
-6.4. Соглашение вступает в силу с момента подтверждения его Пользователем и/или с момента использования Приложения.
+6.4. The Agreement comes into force from the moment it is confirmed by the User and / or from the moment of using the Application.
 
-6.5. У Администрации есть право в одностороннем порядке изменять настоящее Соглашение. Если Пользователь имеет возражения, он может в течение 3-х дней с момента внесения изменений отправить Администрации письменное уведомление об этом. Соглашение будет считаться расторгнутым с момента получения сообщения и прекращения использования Приложения.
+6.5. The Administration has the right to unilaterally change this Agreement. If the User has objections, he may, within 3 days from the date of the amendment, send the Administration a written notice of this. The agreement will be deemed terminated upon receipt of the message and the termination of the use of the Application.
 
-ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ
+PRIVACY POLICY
 
-Мы уделяем самое пристальное внимание вопросам защиты конфиденциальности вашей личной информации и берем на себя обязательство сделать Приложение таким продуктом, который будет нравиться людям и которому они будут доверять. Настоящий документ (далее –«Политика») описывает процедуры использования информации, позволяющей установить личность (далее мы будем называть ее «Персональные данные») и случаи использования такой информации, а также иной собираемой нами информации. Со всеми вопросами, ответы на которые вы здесь не нашли, просим в любое время обращаться по адресу kagenode060864@gmail.com
+We pay close attention to the protection of the confidentiality of your personal information and undertake to make the Application a product that people will like and trust. This document (hereinafter - the "Policy") describes the procedures for using information that allows you to identify a person (hereinafter we will call it "Personal Data") and the cases of using such information, as well as other information collected by us. With all questions, the answers to which you did not find here, please contact us at any time at kagenode060864@gmail.com
 
-В настоящей Политике в Отношении Конфиденциальности мы используем термины «Приложение», «мы», «наш», «нам» для обозначения Администрации Приложения). Термины «Вы», «ваш» означают пользователей нашего Приложения.
+In this Privacy Policy, we use the terms “Application”, “we”, “our”, “us” to refer to the Administration of the Application). The terms "you", "your" means users of our Application.
 
-КАКУЮ ИНФОРМАЦИЮ МЫ СОБИРАЕМ?
+WHAT INFORMATION DO WE COLLECT?
 
-В ходе вашего пользования мы можем собирать Персональные Данные и иную вашу информацию, как указано ниже:
+In the course of your use, we may collect Personal Data and your other information as follows:
 
-ПЕРСОНАЛЬНЫЕ ДАННЫЕ.
+PERSONAL INFORMATION.
 
-Мы собираем ваши Персональные данные, когда вы добровольно предоставляете такие данные, например, когда вы создаете учетную запись, добавляете информацию в пользовательский профиль или обращаетесь к нам с запросами. Факт добровольного предоставления вами нам Персональных Данных означает, что вы даете свое согласие на использование нами этих Данных в соответствии с настоящей Политикой в Отношении Конфиденциальности и соглашаетесь, что эти Данные могут передаваться в офисы и на серверы Приложения, а также вспомогательным сервисам аналитики.
+We collect your Personal Data when you voluntarily provide such data, for example, when you create an account, add information to a user profile or contact us with inquiries. The fact that you voluntarily provide us with Personal Data means that you consent to our use of this Data in accordance with this Privacy Policy and agree that this Data may be transmitted to offices and Application servers, as well as assistive analytics services.
 
-ИНФОРМАЦИЯ, НЕ ПОЗВОЛЯЮЩАЯ УСТАНОВИТЬ ЛИЧНОСТЬ, ИЛИ СВОДНАЯ ИНФОРМАЦИЯ.
+INFORMATION NOT PERMITTING TO SET THE PERSONALITY OR CONSOLIDATED INFORMATION.
 
-Когда вы используете наше Приложение, мы также получаем и сохраняем определенную личную информацию, не позволяющую установить личность. Такая информация, собираемая пассивным образом с помощью различных технологий, не может в настоящее время использоваться для идентификации вашей личности. Приложение может хранить такую информацию саму по себе, либо эта информация может быть включена в базы данных, собственником и оператором которых являются лица, аффилированные с Приложением, его агенты или провайдеры услуг. Мы можем использовать такую информацию и объединять ее с прочей информацией, например, для отслеживания общего количества обращений к нашему Приложению, доменных имен интернет-провайдеров, используемых нашими посетителями, а также способов использования нашего Приложения и работой с ним. Время от времени Приложение на основе Персональных Данных и иной информации, предоставленной нам, также проводит исследования демографического состава своих клиентов, их интересов и поведения. Эти исследования будут составляться и анализироваться на совокупной основе. Приложение может предоставлять такую информацию, не позволяющую установить личность, и сводные данные своим аффилированным лицам, агентам и деловым партнерам, однако такая сводная информация, не позволяющая установить личность, не дает возможности идентифицировать вас лично. Приложение может также раскрывать сводные статистические данные пользователей для описания Приложения имеющимся или потенциальным деловым партнерам, а также иным третьим лицам для иных целей, не противоречащих закону.
+When you use our Application, we also receive and retain certain personally identifiable information. Such information, collected in a passive manner using various technologies, cannot currently be used to identify you. The application may store such information on its own, or this information may be included in the databases, the owner and operator of which are persons affiliated with the Application, its agents or service providers. We may use such information and combine it with other information, for example, to track the total number of calls to our Application, the domain names of Internet providers used by our visitors, as well as how to use our Application and work with it. From time to time, the Application, based on Personal Data and other information provided to us, also conducts research on the demographic composition of its clients, their interests and behavior. These studies will be compiled and analyzed on an aggregate basis. An application can provide such non-personally identifiable information and summary data to its affiliates, agents, and business partners, but this non-personally identifiable information does not allow you to personally identify you. The Application may also disclose aggregated user statistics for describing the Application to existing or potential business partners, as well as other third parties for other purposes not inconsistent with the law.
 
-КАК МЫ ИСПОЛЬЗУЕМ ВАШУ ИНФОРМАЦИЮ?
+HOW DO WE USE YOUR INFORMATION?
 
-Мы используем Персональные Данные, которые вы нам предоставляете, в соответствии с настоящей Политикой в Отношении Конфиденциальности. Например, мы можем использовать эти Данные следующим образом:
+We use the Personal Data that you provide to us in accordance with this Privacy Policy. For example, we may use this Data as follows:
 
-для обеспечения основной функциональности Приложения (например, для показа ваших запросов пользователям);
+to provide the main functionality of the Application (for example, to show your requests to users);
 
-для отслеживания процесса использования вами Приложения и улучшения алгоритма взаимодействия с пользователем;
+to track nthe process of using the Application by you and improving the user interaction algorithm;
 
-для переписки с вами по вопросам, касающимся Приложения;
+to correspond with you on issues related to the Application;
 
-для любых иных целей, для которых предоставляется информация.
+for any other purposes for which information is provided.
 
-КАКУЮ ИНФОРМАЦИЮ МЫ ПЕРЕДАЕМ ТРЕТЬИМ ЛИЦАМ?
+WHAT INFORMATION DO WE TRANSFER TO THIRD PARTIES?
 
-Приложение уделяет самое пристальное внимание вопросам сохранения ваших данных и без вашего предварительного согласия не будет передавать ваши Персональные Данные кому-либо, кроме того, как это указано в настоящей Политике в Отношении Конфиденциальности. Однако ниже перечислены обстоятельства, когда мы вправе передать ваши Персональные Данные определенным третьим лицам без направления вам предварительного уведомления: в случае продажи компании, слияния, реорганизации, прекращения деятельности или иного подобного события; провайдерам сервисов, с которыми мы сотрудничаем в ходе управления Приложением, таким, как провайдеры почтового сервиса или баз данных; нашим аффилированным лицам или дочерним компаниям для целей, не противоречащих настоящей Политике в Отношении Конфиденциальности; для принудительного исполнения настоящей Политики в Отношении Конфиденциальности или иных условий предоставления Услуги; а также, если такая передача требуется по закону или исходя из добросовестного понимания, что такое действие необходимо, для исполнения юридической обязанности, защиты прав или имущества Приложения, неприкосновенности личной жизни пользователей сервиса или общественности, или для целей защиты от юридических обязательств.
+The application pays close attention to the preservation of your data and without your prior consent will not transfer your Personal Data to anyone other than as stated in this Privacy Policy. However, the following are the circumstances when we are entitled to transfer your Personal Data to certain third parties without giving you prior notice: in the event of the sale of the company, merger, reorganization, termination of activities or other such event; providers of services with which we cooperate in the management of the Application, such as providers of mail service or databases; our affiliates or subsidiaries for purposes not inconsistent with this Privacy Policy; to enforce this Policy in relation to Confidentiality or other terms of service; and also, if such a transfer is required by law or on the basis of a conscientious understanding that such action is necessary in order to fulfill a legal obligation, protect the rights or property of the Application, privacy of users of the service or the public, or for protection against legal obligations.
 
-ИСКЛЮЧЕНИЯ
+EXCLUSIONS
 
-Настоящая Политика в Отношении Конфиденциальности не применяется к Персональным Данным, собранным Приложением иным образом, нежели получение Персональных Данных в ходе предоставления Приложения. Настоящая Политика в Отношении Конфиденциальности не применяется к информации, предоставление которой не требовалось, но которая была предоставлена вами на сервер Приложения. Эта информация включает (не ограничиваясь этим) информацию, размещаемую на каких-либо публично доступных областях Приложения, какие-либо идеи в отношении новых продуктов или модификации существующих продуктов, а также иную информацию, предоставления которой не требовалось со стороны Приложения. Вся такая информация будет считаться не конфиденциальной, и Приложение вправе свободно воспроизводить, использовать, разглашать, распространять и разрабатывать ее без ограничения и указания источника.
+This Privacy Policy does not apply to Personal Data collected by the Application in a manner different from receiving Personal Data in the course of providing the Application. This Privacy Policy does not apply to information whose provision was not required, but which was provided by you to the Application server. This information includes (but is not limited to) information posted on any of the publicly available areas of the Application, any ideas for new products or modifications to existing products, as well as other information that was not required from the Application. All such information will be considered non-confidential, and the Application has the right to freely reproduce, use, disclose, distribute and develop it without restriction and indication of the source.
 
-КАКИЕ ШАГИ МЫ ПРЕДПРИНИМАЕМ ДЛЯ ЗАЩИТЫ ВАШИХ ЛИЧНЫХДАННЫХ
+WHAT STEPS WE TAKE PLACE TO PROTECT YOUR PERSONAL DATA
 
-Мы предпринимаем разумные шаги для защиты Персональных Данных, предоставленных посредством Приложения, от потери, неправомерного использования, несанкционированного доступа, разглашения, изменения или уничтожения. Однако ни интернет-соединение, ни электронная почта, ни иные электронные средства передачи не являются полностью безопасными и не застрахованы от сбоев, поэтому вы должны с особой тщательностью отбирать информацию для передачи таким способом.
+We take reasonable steps to protect Personal Information provided through the Application from loss, misuse, unauthorized access, disclosure, alteration or destruction. However, neither the Internet connection, nor the e-mail, nor other electronic means of transmission are completely safe and are not insured against failures, therefore you should carefully select the information to be transmitted in this way.
 
-ИЗМЕНЕНИЯ ПОЛИТИКИ В ОТНОШЕНИИ КОНФИДЕНЦИАЛЬНОСТИ
+POLICY CHANGES WITH RESPECT TO PRIVACY
 
-Время от времени мы можем изменять настоящую Политику в Отношении Конфиденциальности. Когда это произойдет, мы уведомим вас об этом путем изменения даты «последнего обновления» в Политике, и продолжение использования вами Услуги будет толковаться как ваше согласие с условиями измененной Политики в Отношении Конфиденциальности.
+From time to time we may change this Privacy Policy. When this happens, we will notify you by changing the “last update” date in the Policy, and your continued use of the Service will be interpreted as your acceptance of the terms of the modified Privacy Policy.
 
-ВОПРОСЫ
+QUESTIONS
 
-Если вы захотите оставить отзыв или у вас возникнут вопросы или комментарии касательно настоящей Политики в Отношении Конфиденциальности, пожалуйста , обращайтесь по адресу kagenode060864@gmail.com. Для того чтобы обеспечить достоверность, полноту и актуальность ваших Персональных Данных, пожалуйста, обращайтесь к нам по поводу любых изменений, и мы предпримем разумные шаги для обновления или исправления ваших Персональных Данных, находящихся в нашем распоряжении, которые вы нам предоставили ранее.
+If you want to leave a review or have any questions or comments regarding this Privacy Policy, please contact kagenode060864@gmail.com. In order to ensure the accuracy, completeness and relevance of your Personal Data, please contact us regarding any changes, and we will take reasonable steps to update or correct your Personal Data in our possession that you provided us earlier.
 
-Контакты e-mail: kagenode060864@gmail.com
+Contacts e-mail: kagenode060864@gmail.com
